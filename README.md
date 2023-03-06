@@ -6,5 +6,5 @@ I have shown the variatins between house price and bedrom numbers and restromm n
 <img src="price_plot.png" width="800" height="600">
 We can see very good fitting between our real price and predicted price:
 
-<img src="fiiting.png" width="1000" height="600">
+<img src="fiiting.png" width="1000" height="400">
 
