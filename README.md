@@ -1,4 +1,4 @@
-# Machine-Learning-xgboost-house-price-prediction
+# Machine-Learning-regression-house-price-prediction
 I have used xgboost for prediction of house price.
 The dataset has been downloaded from the following link:
 https://www.kaggle.com/datasets/yasserh/housing-prices-dataset?resource=download
