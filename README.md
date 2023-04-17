@@ -10,3 +10,7 @@ We can see very good fitting between our real price and predicted price:
 
 <img src="fiiting.png" width="1000" height="300">
 
+
+
+
+`DISCLAIMER`:  I don't warrant this code in any way whatsoever. This code is provided "as-is" to be used at your own risk.
